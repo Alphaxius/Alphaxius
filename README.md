@@ -1,4 +1,5 @@
 My name is Jacob!
+I am a data and technology professional.
 I have here my professional portfolio/ personal projects.
 I graduated from the University of Washington, Bothell with a Bachelor of Science in Electrical Engineering.
 I minored in mathematics and computer science and software engineering.
