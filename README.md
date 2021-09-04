@@ -8,5 +8,5 @@ I enjoy music, baking, digital art (check out my redbubble: https://www.redbubbl
   calligraphy, photography, table top board games, creative writing, crochet, jewelry making, and probably other
   things too.
  
- Currently working on: Eurorack module for simple synthesis using samples.
+ Currently working on: Some project using Markov Chains, not sure what it is yet!
  
